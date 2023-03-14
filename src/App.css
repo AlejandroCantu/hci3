@@ -49,6 +49,7 @@
 .search-row {
   display: flex;
   justify-content: center;
+  padding-top: 5%;
 }
 
 .time {
