@@ -52,6 +52,8 @@
   padding-top: 5%;
 }
 
+
+
 .time {
   display: flex;
   justify-content: right;
@@ -61,5 +63,15 @@
   background-color: darkorange;
   display: flex;
   justify-content: center;
-  margin-bottom: 5%;
+  margin-bottom: 2%;
+}
+
+.welcome {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+.welcome-row {
+  max-width: 25%;
 }
